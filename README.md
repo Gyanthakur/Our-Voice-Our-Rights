@@ -84,25 +84,6 @@ Open `http://localhost:5173` (Vite default) in your browser.
 
 ---
 
-## Important notes / gotchas
-
-* **TanStack Query v5**: use the object signature when calling `useQuery`, e.g. `useQuery({ queryKey: ['metrics', id], queryFn: () => fetchMetrics(id) })`.
-* **Mock data files** live in `src/assets/data/`:
-
-  * `districts.json` — list of districts with `id`, `name`, `state`, `centroid` `{ lat, lng }`.
-  * `sample-metrics.json` — array of objects `{ districtId, metrics: [ { year, month, person_days, wages_paid, pending } ], last_updated }`.
-* `fetchMetrics(districtId)` in `src/utils/api.js` returns a well-formed object even when data is missing. Keep `MOCK = true` during local dev.
-* **Vite static import paths**: when using `fetch('/src/assets/data/..')` it works in dev. If you move files to `public/`, change path to `/sample-metrics.json`.
-* **Tailwind not showing?** Make sure `index.css` imports Tailwind directives and `tailwind.config.js` includes your `src` paths. Restart dev server after config changes.
-
----
-
-## How to add / refresh mock metrics
-
-* To add new districts: update `districts.json` and add matching `districtId` objects to `sample-metrics.json`.
-* Want to auto-generate metrics for many districts? Create a small Node script (`scripts/generateMetrics.js`) that reads `districts.json` and outputs `sample-metrics.json` with randomized but realistic metrics. (I can provide this script if you want.)
-
----
 
 ## Accessibility and low-literacy design choices
 
