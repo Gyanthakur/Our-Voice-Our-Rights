@@ -4,6 +4,13 @@ A lightweight, accessible React + Vite frontend to visualise district-level MGNR
 
 ---
 
+
+### Demo:
+
+https://github.com/user-attachments/assets/6c482066-5d37-4a1c-83dd-a09f14d22754
+
+
+
 ## Features
 
 * District selector + **Auto-detect** by browser geolocation
