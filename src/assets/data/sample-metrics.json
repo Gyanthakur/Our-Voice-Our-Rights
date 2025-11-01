@@ -1,0 +1,1204 @@
+[
+  {
+    "districtId": "d-1",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 4200, "wages_paid": 350000, "pending": 12000 },
+      { "year": 2025, "month": 2, "person_days": 5300, "wages_paid": 450000, "pending": 8000 },
+      { "year": 2025, "month": 3, "person_days": 6100, "wages_paid": 550000, "pending": 6000 },
+      { "year": 2025, "month": 4, "person_days": 4900, "wages_paid": 420000, "pending": 16000 },
+      { "year": 2025, "month": 5, "person_days": 7200, "wages_paid": 680000, "pending": 4000 },
+      { "year": 2025, "month": 6, "person_days": 8000, "wages_paid": 750000, "pending": 2000 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-2",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 3800, "wages_paid": 310000, "pending": 18000 },
+      { "year": 2025, "month": 2, "person_days": 4400, "wages_paid": 390000, "pending": 15000 },
+      { "year": 2025, "month": 3, "person_days": 5900, "wages_paid": 520000, "pending": 5000 },
+      { "year": 2025, "month": 4, "person_days": 6100, "wages_paid": 540000, "pending": 3000 },
+      { "year": 2025, "month": 5, "person_days": 7100, "wages_paid": 680000, "pending": 2000 },
+      { "year": 2025, "month": 6, "person_days": 8200, "wages_paid": 760000, "pending": 1000 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-3",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 5000, "wages_paid": 460000, "pending": 9000 },
+      { "year": 2025, "month": 2, "person_days": 5500, "wages_paid": 490000, "pending": 7000 },
+      { "year": 2025, "month": 3, "person_days": 6000, "wages_paid": 530000, "pending": 6000 },
+      { "year": 2025, "month": 4, "person_days": 6500, "wages_paid": 570000, "pending": 3000 },
+      { "year": 2025, "month": 5, "person_days": 7000, "wages_paid": 610000, "pending": 2000 },
+      { "year": 2025, "month": 6, "person_days": 7500, "wages_paid": 660000, "pending": 1500 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-4",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 3500, "wages_paid": 300000, "pending": 18000 },
+      { "year": 2025, "month": 2, "person_days": 4000, "wages_paid": 350000, "pending": 15000 },
+      { "year": 2025, "month": 3, "person_days": 4700, "wages_paid": 410000, "pending": 9000 },
+      { "year": 2025, "month": 4, "person_days": 5200, "wages_paid": 460000, "pending": 4000 },
+      { "year": 2025, "month": 5, "person_days": 6000, "wages_paid": 520000, "pending": 3000 },
+      { "year": 2025, "month": 6, "person_days": 6800, "wages_paid": 590000, "pending": 2000 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-5",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 4600, "wages_paid": 390000, "pending": 15000 },
+      { "year": 2025, "month": 2, "person_days": 5200, "wages_paid": 450000, "pending": 8000 },
+      { "year": 2025, "month": 3, "person_days": 5700, "wages_paid": 510000, "pending": 7000 },
+      { "year": 2025, "month": 4, "person_days": 6100, "wages_paid": 550000, "pending": 5000 },
+      { "year": 2025, "month": 5, "person_days": 6600, "wages_paid": 590000, "pending": 4000 },
+      { "year": 2025, "month": 6, "person_days": 7200, "wages_paid": 640000, "pending": 2000 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-6",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 3900, "wages_paid": 320000, "pending": 14000 },
+      { "year": 2025, "month": 2, "person_days": 4400, "wages_paid": 360000, "pending": 10000 },
+      { "year": 2025, "month": 3, "person_days": 4800, "wages_paid": 410000, "pending": 8000 },
+      { "year": 2025, "month": 4, "person_days": 5400, "wages_paid": 460000, "pending": 5000 },
+      { "year": 2025, "month": 5, "person_days": 6000, "wages_paid": 510000, "pending": 4000 },
+      { "year": 2025, "month": 6, "person_days": 6600, "wages_paid": 560000, "pending": 2000 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-7",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 4700, "wages_paid": 390000, "pending": 10000 },
+      { "year": 2025, "month": 2, "person_days": 5300, "wages_paid": 450000, "pending": 8000 },
+      { "year": 2025, "month": 3, "person_days": 5900, "wages_paid": 510000, "pending": 7000 },
+      { "year": 2025, "month": 4, "person_days": 6400, "wages_paid": 560000, "pending": 4000 },
+      { "year": 2025, "month": 5, "person_days": 7000, "wages_paid": 610000, "pending": 3000 },
+      { "year": 2025, "month": 6, "person_days": 7600, "wages_paid": 670000, "pending": 2000 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-8",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 4100, "wages_paid": 360000, "pending": 12000 },
+      { "year": 2025, "month": 2, "person_days": 4600, "wages_paid": 410000, "pending": 10000 },
+      { "year": 2025, "month": 3, "person_days": 5100, "wages_paid": 460000, "pending": 8000 },
+      { "year": 2025, "month": 4, "person_days": 5700, "wages_paid": 520000, "pending": 5000 },
+      { "year": 2025, "month": 5, "person_days": 6200, "wages_paid": 570000, "pending": 3000 },
+      { "year": 2025, "month": 6, "person_days": 6800, "wages_paid": 620000, "pending": 2000 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-9",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 4300, "wages_paid": 370000, "pending": 11000 },
+      { "year": 2025, "month": 2, "person_days": 4900, "wages_paid": 430000, "pending": 8000 },
+      { "year": 2025, "month": 3, "person_days": 5400, "wages_paid": 480000, "pending": 7000 },
+      { "year": 2025, "month": 4, "person_days": 5900, "wages_paid": 530000, "pending": 5000 },
+      { "year": 2025, "month": 5, "person_days": 6500, "wages_paid": 590000, "pending": 3000 },
+      { "year": 2025, "month": 6, "person_days": 7200, "wages_paid": 650000, "pending": 2000 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-10",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 3900, "wages_paid": 320000, "pending": 14000 },
+      { "year": 2025, "month": 2, "person_days": 4400, "wages_paid": 370000, "pending": 10000 },
+      { "year": 2025, "month": 3, "person_days": 4900, "wages_paid": 420000, "pending": 8000 },
+      { "year": 2025, "month": 4, "person_days": 5400, "wages_paid": 470000, "pending": 6000 },
+      { "year": 2025, "month": 5, "person_days": 6000, "wages_paid": 530000, "pending": 3000 },
+      { "year": 2025, "month": 6, "person_days": 6600, "wages_paid": 580000, "pending": 2000 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-11",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 3700, "wages_paid": 300000, "pending": 15000 },
+      { "year": 2025, "month": 2, "person_days": 4200, "wages_paid": 350000, "pending": 10000 },
+      { "year": 2025, "month": 3, "person_days": 4700, "wages_paid": 410000, "pending": 7000 },
+      { "year": 2025, "month": 4, "person_days": 5200, "wages_paid": 460000, "pending": 5000 },
+      { "year": 2025, "month": 5, "person_days": 5700, "wages_paid": 510000, "pending": 3000 },
+      { "year": 2025, "month": 6, "person_days": 6300, "wages_paid": 570000, "pending": 2000 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-12",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 4600, "wages_paid": 410000, "pending": 10000 },
+      { "year": 2025, "month": 2, "person_days": 5100, "wages_paid": 460000, "pending": 8000 },
+      { "year": 2025, "month": 3, "person_days": 5600, "wages_paid": 510000, "pending": 7000 },
+      { "year": 2025, "month": 4, "person_days": 6100, "wages_paid": 560000, "pending": 5000 },
+      { "year": 2025, "month": 5, "person_days": 6700, "wages_paid": 620000, "pending": 3000 },
+      { "year": 2025, "month": 6, "person_days": 7300, "wages_paid": 670000, "pending": 2000 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-13",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 4000, "wages_paid": 350000, "pending": 12000 },
+      { "year": 2025, "month": 2, "person_days": 4500, "wages_paid": 400000, "pending": 10000 },
+      { "year": 2025, "month": 3, "person_days": 5000, "wages_paid": 450000, "pending": 8000 },
+      { "year": 2025, "month": 4, "person_days": 5600, "wages_paid": 510000, "pending": 5000 },
+      { "year": 2025, "month": 5, "person_days": 6100, "wages_paid": 560000, "pending": 3000 },
+      { "year": 2025, "month": 6, "person_days": 6700, "wages_paid": 620000, "pending": 2000 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-14",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 4800, "wages_paid": 420000, "pending": 9000 },
+      { "year": 2025, "month": 2, "person_days": 5400, "wages_paid": 470000, "pending": 8000 },
+      { "year": 2025, "month": 3, "person_days": 5900, "wages_paid": 520000, "pending": 6000 },
+      { "year": 2025, "month": 4, "person_days": 6400, "wages_paid": 570000, "pending": 4000 },
+      { "year": 2025, "month": 5, "person_days": 7000, "wages_paid": 620000, "pending": 2000 },
+      { "year": 2025, "month": 6, "person_days": 7500, "wages_paid": 670000, "pending": 1000 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-15",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 3500, "wages_paid": 300000, "pending": 16000 },
+      { "year": 2025, "month": 2, "person_days": 4000, "wages_paid": 350000, "pending": 12000 },
+      { "year": 2025, "month": 3, "person_days": 4500, "wages_paid": 400000, "pending": 8000 },
+      { "year": 2025, "month": 4, "person_days": 5000, "wages_paid": 450000, "pending": 5000 },
+      { "year": 2025, "month": 5, "person_days": 5600, "wages_paid": 510000, "pending": 3000 },
+      { "year": 2025, "month": 6, "person_days": 6200, "wages_paid": 560000, "pending": 2000 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-16",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 4600, "wages_paid": 400000, "pending": 9000 },
+      { "year": 2025, "month": 2, "person_days": 5100, "wages_paid": 450000, "pending": 7000 },
+      { "year": 2025, "month": 3, "person_days": 5600, "wages_paid": 500000, "pending": 5000 },
+      { "year": 2025, "month": 4, "person_days": 6100, "wages_paid": 550000, "pending": 4000 },
+      { "year": 2025, "month": 5, "person_days": 6700, "wages_paid": 610000, "pending": 3000 },
+      { "year": 2025, "month": 6, "person_days": 7300, "wages_paid": 670000, "pending": 2000 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-17",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 3900, "wages_paid": 340000, "pending": 13000 },
+      { "year": 2025, "month": 2, "person_days": 4400, "wages_paid": 390000, "pending": 10000 },
+      { "year": 2025, "month": 3, "person_days": 4900, "wages_paid": 440000, "pending": 8000 },
+      { "year": 2025, "month": 4, "person_days": 5400, "wages_paid": 490000, "pending": 5000 },
+      { "year": 2025, "month": 5, "person_days": 6000, "wages_paid": 540000, "pending": 3000 },
+      { "year": 2025, "month": 6, "person_days": 6600, "wages_paid": 590000, "pending": 2000 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-18",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 4800, "wages_paid": 430000, "pending": 10000 },
+      { "year": 2025, "month": 2, "person_days": 5300, "wages_paid": 480000, "pending": 8000 },
+      { "year": 2025, "month": 3, "person_days": 5800, "wages_paid": 530000, "pending": 6000 },
+      { "year": 2025, "month": 4, "person_days": 6400, "wages_paid": 590000, "pending": 4000 },
+      { "year": 2025, "month": 5, "person_days": 7000, "wages_paid": 650000, "pending": 2000 },
+      { "year": 2025, "month": 6, "person_days": 7600, "wages_paid": 710000, "pending": 1000 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-19",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 4000, "wages_paid": 350000, "pending": 12000 },
+      { "year": 2025, "month": 2, "person_days": 4500, "wages_paid": 400000, "pending": 9000 },
+      { "year": 2025, "month": 3, "person_days": 5100, "wages_paid": 460000, "pending": 7000 },
+      { "year": 2025, "month": 4, "person_days": 5700, "wages_paid": 520000, "pending": 5000 },
+      { "year": 2025, "month": 5, "person_days": 6200, "wages_paid": 570000, "pending": 3000 },
+      { "year": 2025, "month": 6, "person_days": 6800, "wages_paid": 630000, "pending": 2000 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-20",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 4300, "wages_paid": 380000, "pending": 11000 },
+      { "year": 2025, "month": 2, "person_days": 4900, "wages_paid": 440000, "pending": 9000 },
+      { "year": 2025, "month": 3, "person_days": 5500, "wages_paid": 500000, "pending": 6000 },
+      { "year": 2025, "month": 4, "person_days": 6100, "wages_paid": 560000, "pending": 4000 },
+      { "year": 2025, "month": 5, "person_days": 6700, "wages_paid": 620000, "pending": 3000 },
+      { "year": 2025, "month": 6, "person_days": 7300, "wages_paid": 680000, "pending": 2000 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-21",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 3600, "wages_paid": 310000, "pending": 14000 },
+      { "year": 2025, "month": 2, "person_days": 4100, "wages_paid": 360000, "pending": 11000 },
+      { "year": 2025, "month": 3, "person_days": 4600, "wages_paid": 410000, "pending": 8000 },
+      { "year": 2025, "month": 4, "person_days": 5100, "wages_paid": 460000, "pending": 6000 },
+      { "year": 2025, "month": 5, "person_days": 5700, "wages_paid": 520000, "pending": 4000 },
+      { "year": 2025, "month": 6, "person_days": 6300, "wages_paid": 570000, "pending": 2500 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-22",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 4500, "wages_paid": 395000, "pending": 10000 },
+      { "year": 2025, "month": 2, "person_days": 5000, "wages_paid": 445000, "pending": 8500 },
+      { "year": 2025, "month": 3, "person_days": 5500, "wages_paid": 495000, "pending": 6500 },
+      { "year": 2025, "month": 4, "person_days": 6000, "wages_paid": 545000, "pending": 4500 },
+      { "year": 2025, "month": 5, "person_days": 6600, "wages_paid": 600000, "pending": 3000 },
+      { "year": 2025, "month": 6, "person_days": 7200, "wages_paid": 655000, "pending": 2000 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-23",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 3800, "wages_paid": 330000, "pending": 13000 },
+      { "year": 2025, "month": 2, "person_days": 4300, "wages_paid": 380000, "pending": 10500 },
+      { "year": 2025, "month": 3, "person_days": 4800, "wages_paid": 430000, "pending": 8500 },
+      { "year": 2025, "month": 4, "person_days": 5300, "wages_paid": 480000, "pending": 6000 },
+      { "year": 2025, "month": 5, "person_days": 5900, "wages_paid": 535000, "pending": 4000 },
+      { "year": 2025, "month": 6, "person_days": 6500, "wages_paid": 590000, "pending": 2500 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-24",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 4700, "wages_paid": 415000, "pending": 9500 },
+      { "year": 2025, "month": 2, "person_days": 5200, "wages_paid": 465000, "pending": 7500 },
+      { "year": 2025, "month": 3, "person_days": 5700, "wages_paid": 515000, "pending": 6000 },
+      { "year": 2025, "month": 4, "person_days": 6200, "wages_paid": 565000, "pending": 4500 },
+      { "year": 2025, "month": 5, "person_days": 6800, "wages_paid": 620000, "pending": 3000 },
+      { "year": 2025, "month": 6, "person_days": 7400, "wages_paid": 675000, "pending": 1800 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-25",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 4000, "wages_paid": 355000, "pending": 11500 },
+      { "year": 2025, "month": 2, "person_days": 4500, "wages_paid": 405000, "pending": 9500 },
+      { "year": 2025, "month": 3, "person_days": 5000, "wages_paid": 455000, "pending": 7500 },
+      { "year": 2025, "month": 4, "person_days": 5500, "wages_paid": 505000, "pending": 5500 },
+      { "year": 2025, "month": 5, "person_days": 6100, "wages_paid": 560000, "pending": 3500 },
+      { "year": 2025, "month": 6, "person_days": 6700, "wages_paid": 615000, "pending": 2200 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-26",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 3700, "wages_paid": 320000, "pending": 14500 },
+      { "year": 2025, "month": 2, "person_days": 4200, "wages_paid": 370000, "pending": 11500 },
+      { "year": 2025, "month": 3, "person_days": 4700, "wages_paid": 420000, "pending": 8500 },
+      { "year": 2025, "month": 4, "person_days": 5200, "wages_paid": 470000, "pending": 6500 },
+      { "year": 2025, "month": 5, "person_days": 5800, "wages_paid": 525000, "pending": 4500 },
+      { "year": 2025, "month": 6, "person_days": 6400, "wages_paid": 580000, "pending": 2800 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-27",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 4400, "wages_paid": 385000, "pending": 10500 },
+      { "year": 2025, "month": 2, "person_days": 4900, "wages_paid": 435000, "pending": 8500 },
+      { "year": 2025, "month": 3, "person_days": 5400, "wages_paid": 485000, "pending": 7000 },
+      { "year": 2025, "month": 4, "person_days": 5900, "wages_paid": 535000, "pending": 5000 },
+      { "year": 2025, "month": 5, "person_days": 6500, "wages_paid": 590000, "pending": 3000 },
+      { "year": 2025, "month": 6, "person_days": 7100, "wages_paid": 645000, "pending": 2000 }  
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-28",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 4100, "wages_paid": 360000, "pending": 12000 },
+      { "year": 2025, "month": 2, "person_days": 4600, "wages_paid": 410000, "pending": 9000 },
+      { "year": 2025, "month": 3, "person_days": 5100, "wages_paid": 460000, "pending": 7000 },
+      { "year": 2025, "month": 4, "person_days": 5600, "wages_paid": 510000, "pending": 5000 },
+      { "year": 2025, "month": 5, "person_days": 6200, "wages_paid": 570000, "pending": 3000 },
+      { "year": 2025, "month": 6, "person_days": 6800, "wages_paid": 620000, "pending": 2000 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-29",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 3500, "wages_paid": 300000, "pending": 14000 },
+      { "year": 2025, "month": 2, "person_days": 4000, "wages_paid": 350000, "pending": 11000 },
+      { "year": 2025, "month": 3, "person_days": 4500, "wages_paid": 405000, "pending": 8000 },
+      { "year": 2025, "month": 4, "person_days": 5000, "wages_paid": 455000, "pending": 6000 },
+      { "year": 2025, "month": 5, "person_days": 5600, "wages_paid": 510000, "pending": 3500 },
+      { "year": 2025, "month": 6, "person_days": 6200, "wages_paid": 565000, "pending": 2500 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-30",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 4800, "wages_paid": 420000, "pending": 9000 },
+      { "year": 2025, "month": 2, "person_days": 5200, "wages_paid": 465000, "pending": 7000 },
+      { "year": 2025, "month": 3, "person_days": 5800, "wages_paid": 520000, "pending": 6000 },
+      { "year": 2025, "month": 4, "person_days": 6300, "wages_paid": 570000, "pending": 4000 },
+      { "year": 2025, "month": 5, "person_days": 6900, "wages_paid": 630000, "pending": 2000 },
+      { "year": 2025, "month": 6, "person_days": 7400, "wages_paid": 680000, "pending": 1200 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-31",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 4200, "wages_paid": 360000, "pending": 11000 },
+      { "year": 2025, "month": 2, "person_days": 4700, "wages_paid": 410000, "pending": 9000 },
+      { "year": 2025, "month": 3, "person_days": 5200, "wages_paid": 460000, "pending": 7000 },
+      { "year": 2025, "month": 4, "person_days": 5800, "wages_paid": 510000, "pending": 5000 },
+      { "year": 2025, "month": 5, "person_days": 6400, "wages_paid": 580000, "pending": 3000 },
+      { "year": 2025, "month": 6, "person_days": 7000, "wages_paid": 640000, "pending": 1800 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-32",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 3600, "wages_paid": 310000, "pending": 15000 },
+      { "year": 2025, "month": 2, "person_days": 4100, "wages_paid": 360000, "pending": 12000 },
+      { "year": 2025, "month": 3, "person_days": 4600, "wages_paid": 410000, "pending": 9000 },
+      { "year": 2025, "month": 4, "person_days": 5100, "wages_paid": 460000, "pending": 6500 },
+      { "year": 2025, "month": 5, "person_days": 5700, "wages_paid": 520000, "pending": 4000 },
+      { "year": 2025, "month": 6, "person_days": 6300, "wages_paid": 575000, "pending": 2200 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-33",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 5000, "wages_paid": 450000, "pending": 8000 },
+      { "year": 2025, "month": 2, "person_days": 5500, "wages_paid": 500000, "pending": 6000 },
+      { "year": 2025, "month": 3, "person_days": 6000, "wages_paid": 550000, "pending": 4500 },
+      { "year": 2025, "month": 4, "person_days": 6600, "wages_paid": 610000, "pending": 3000 },
+      { "year": 2025, "month": 5, "person_days": 7200, "wages_paid": 670000, "pending": 1500 },
+      { "year": 2025, "month": 6, "person_days": 7800, "wages_paid": 730000, "pending": 900 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-34",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 3400, "wages_paid": 300000, "pending": 16000 },
+      { "year": 2025, "month": 2, "person_days": 3900, "wages_paid": 350000, "pending": 12000 },
+      { "year": 2025, "month": 3, "person_days": 4400, "wages_paid": 400000, "pending": 9000 },
+      { "year": 2025, "month": 4, "person_days": 4900, "wages_paid": 450000, "pending": 6000 },
+      { "year": 2025, "month": 5, "person_days": 5400, "wages_paid": 500000, "pending": 3500 },
+      { "year": 2025, "month": 6, "person_days": 6000, "wages_paid": 555000, "pending": 2500 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-35",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 4700, "wages_paid": 405000, "pending": 9500 },
+      { "year": 2025, "month": 2, "person_days": 5200, "wages_paid": 455000, "pending": 7500 },
+      { "year": 2025, "month": 3, "person_days": 5700, "wages_paid": 505000, "pending": 6000 },
+      { "year": 2025, "month": 4, "person_days": 6200, "wages_paid": 555000, "pending": 4200 },
+      { "year": 2025, "month": 5, "person_days": 6800, "wages_paid": 610000, "pending": 2500 },
+      { "year": 2025, "month": 6, "person_days": 7400, "wages_paid": 665000, "pending": 1500 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-36",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 4200, "wages_paid": 360000, "pending": 12000 },
+      { "year": 2025, "month": 2, "person_days": 4700, "wages_paid": 410000, "pending": 9000 },
+      { "year": 2025, "month": 3, "person_days": 5200, "wages_paid": 460000, "pending": 7000 },
+      { "year": 2025, "month": 4, "person_days": 5800, "wages_paid": 520000, "pending": 4500 },
+      { "year": 2025, "month": 5, "person_days": 6400, "wages_paid": 580000, "pending": 3000 },
+      { "year": 2025, "month": 6, "person_days": 7000, "wages_paid": 640000, "pending": 2000 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-37",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 3600, "wages_paid": 320000, "pending": 14000 },
+      { "year": 2025, "month": 2, "person_days": 4100, "wages_paid": 370000, "pending": 11000 },
+      { "year": 2025, "month": 3, "person_days": 4600, "wages_paid": 420000, "pending": 8500 },
+      { "year": 2025, "month": 4, "person_days": 5100, "wages_paid": 470000, "pending": 6000 },
+      { "year": 2025, "month": 5, "person_days": 5700, "wages_paid": 525000, "pending": 3500 },
+      { "year": 2025, "month": 6, "person_days": 6300, "wages_paid": 580000, "pending": 2200 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-38",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 4800, "wages_paid": 430000, "pending": 9000 },
+      { "year": 2025, "month": 2, "person_days": 5300, "wages_paid": 480000, "pending": 7000 },
+      { "year": 2025, "month": 3, "person_days": 5800, "wages_paid": 530000, "pending": 5000 },
+      { "year": 2025, "month": 4, "person_days": 6400, "wages_paid": 590000, "pending": 3500 },
+      { "year": 2025, "month": 5, "person_days": 7000, "wages_paid": 650000, "pending": 2000 },
+      { "year": 2025, "month": 6, "person_days": 7600, "wages_paid": 710000, "pending": 1000 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-39",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 4100, "wages_paid": 360000, "pending": 12000 },
+      { "year": 2025, "month": 2, "person_days": 4600, "wages_paid": 410000, "pending": 10000 },
+      { "year": 2025, "month": 3, "person_days": 5100, "wages_paid": 460000, "pending": 8000 },
+      { "year": 2025, "month": 4, "person_days": 5700, "wages_paid": 520000, "pending": 5000 },
+      { "year": 2025, "month": 5, "person_days": 6200, "wages_paid": 570000, "pending": 3000 },
+      { "year": 2025, "month": 6, "person_days": 6800, "wages_paid": 620000, "pending": 2000 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-40",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 5200, "wages_paid": 470000, "pending": 8000 },
+      { "year": 2025, "month": 2, "person_days": 5700, "wages_paid": 520000, "pending": 6000 },
+      { "year": 2025, "month": 3, "person_days": 6200, "wages_paid": 570000, "pending": 4000 },
+      { "year": 2025, "month": 4, "person_days": 6800, "wages_paid": 630000, "pending": 2500 },
+      { "year": 2025, "month": 5, "person_days": 7400, "wages_paid": 690000, "pending": 1200 },
+      { "year": 2025, "month": 6, "person_days": 7900, "wages_paid": 740000, "pending": 800 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-41",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 4800, "wages_paid": 420000, "pending": 9500 },
+      { "year": 2025, "month": 2, "person_days": 5300, "wages_paid": 470000, "pending": 7000 },
+      { "year": 2025, "month": 3, "person_days": 5800, "wages_paid": 520000, "pending": 5000 },
+      { "year": 2025, "month": 4, "person_days": 6300, "wages_paid": 570000, "pending": 3500 },
+      { "year": 2025, "month": 5, "person_days": 6900, "wages_paid": 630000, "pending": 1800 },
+      { "year": 2025, "month": 6, "person_days": 7400, "wages_paid": 680000, "pending": 1200 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-42",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 3600, "wages_paid": 320000, "pending": 14000 },
+      { "year": 2025, "month": 2, "person_days": 4100, "wages_paid": 370000, "pending": 11000 },
+      { "year": 2025, "month": 3, "person_days": 4600, "wages_paid": 420000, "pending": 8000 },
+      { "year": 2025, "month": 4, "person_days": 5100, "wages_paid": 470000, "pending": 6000 },
+      { "year": 2025, "month": 5, "person_days": 5700, "wages_paid": 525000, "pending": 3500 },
+      { "year": 2025, "month": 6, "person_days": 6300, "wages_paid": 580000, "pending": 2300 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-43",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 4400, "wages_paid": 390000, "pending": 10000 },
+      { "year": 2025, "month": 2, "person_days": 4900, "wages_paid": 440000, "pending": 8000 },
+      { "year": 2025, "month": 3, "person_days": 5400, "wages_paid": 490000, "pending": 6000 },
+      { "year": 2025, "month": 4, "person_days": 6000, "wages_paid": 540000, "pending": 4200 },
+      { "year": 2025, "month": 5, "person_days": 6600, "wages_paid": 600000, "pending": 2500 },
+      { "year": 2025, "month": 6, "person_days": 7200, "wages_paid": 655000, "pending": 1400 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-44",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 3900, "wages_paid": 340000, "pending": 13000 },
+      { "year": 2025, "month": 2, "person_days": 4400, "wages_paid": 390000, "pending": 10000 },
+      { "year": 2025, "month": 3, "person_days": 4900, "wages_paid": 440000, "pending": 8000 },
+      { "year": 2025, "month": 4, "person_days": 5400, "wages_paid": 490000, "pending": 6000 },
+      { "year": 2025, "month": 5, "person_days": 6000, "wages_paid": 540000, "pending": 3500 },
+      { "year": 2025, "month": 6, "person_days": 6600, "wages_paid": 595000, "pending": 2400 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-45",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 4700, "wages_paid": 410000, "pending": 9000 },
+      { "year": 2025, "month": 2, "person_days": 5200, "wages_paid": 460000, "pending": 7000 },
+      { "year": 2025, "month": 3, "person_days": 5700, "wages_paid": 510000, "pending": 5000 },
+      { "year": 2025, "month": 4, "person_days": 6200, "wages_paid": 560000, "pending": 3500 },
+      { "year": 2025, "month": 5, "person_days": 6800, "wages_paid": 620000, "pending": 2000 },
+      { "year": 2025, "month": 6, "person_days": 7400, "wages_paid": 680000, "pending": 1000 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-46",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 4200, "wages_paid": 360000, "pending": 12000 },
+      { "year": 2025, "month": 2, "person_days": 4700, "wages_paid": 410000, "pending": 9000 },
+      { "year": 2025, "month": 3, "person_days": 5200, "wages_paid": 460000, "pending": 7000 },
+      { "year": 2025, "month": 4, "person_days": 5800, "wages_paid": 520000, "pending": 4500 },
+      { "year": 2025, "month": 5, "person_days": 6400, "wages_paid": 580000, "pending": 3000 },
+      { "year": 2025, "month": 6, "person_days": 7000, "wages_paid": 640000, "pending": 2000 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-47",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 3800, "wages_paid": 330000, "pending": 15000 },
+      { "year": 2025, "month": 2, "person_days": 4300, "wages_paid": 380000, "pending": 12000 },
+      { "year": 2025, "month": 3, "person_days": 4800, "wages_paid": 430000, "pending": 9000 },
+      { "year": 2025, "month": 4, "person_days": 5300, "wages_paid": 480000, "pending": 6500 },
+      { "year": 2025, "month": 5, "person_days": 5900, "wages_paid": 540000, "pending": 4000 },
+      { "year": 2025, "month": 6, "person_days": 6500, "wages_paid": 595000, "pending": 2600 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-48",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 4500, "wages_paid": 390000, "pending": 10500 },
+      { "year": 2025, "month": 2, "person_days": 5000, "wages_paid": 440000, "pending": 8000 },
+      { "year": 2025, "month": 3, "person_days": 5500, "wages_paid": 490000, "pending": 6000 },
+      { "year": 2025, "month": 4, "person_days": 6000, "wages_paid": 540000, "pending": 4200 },
+      { "year": 2025, "month": 5, "person_days": 6600, "wages_paid": 600000, "pending": 2500 },
+      { "year": 2025, "month": 6, "person_days": 7200, "wages_paid": 655000, "pending": 1400 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-49",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 4000, "wages_paid": 350000, "pending": 12000 },
+      { "year": 2025, "month": 2, "person_days": 4500, "wages_paid": 400000, "pending": 9000 },
+      { "year": 2025, "month": 3, "person_days": 5100, "wages_paid": 460000, "pending": 7000 },
+      { "year": 2025, "month": 4, "person_days": 5700, "wages_paid": 520000, "pending": 5000 },
+      { "year": 2025, "month": 5, "person_days": 6200, "wages_paid": 570000, "pending": 3000 },
+      { "year": 2025, "month": 6, "person_days": 6800, "wages_paid": 630000, "pending": 2000 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-50",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 4800, "wages_paid": 420000, "pending": 9500 },
+      { "year": 2025, "month": 2, "person_days": 5300, "wages_paid": 470000, "pending": 7500 },
+      { "year": 2025, "month": 3, "person_days": 5800, "wages_paid": 520000, "pending": 5000 },
+      { "year": 2025, "month": 4, "person_days": 6300, "wages_paid": 570000, "pending": 3500 },
+      { "year": 2025, "month": 5, "person_days": 6900, "wages_paid": 630000, "pending": 1800 },
+      { "year": 2025, "month": 6, "person_days": 7400, "wages_paid": 680000, "pending": 1200 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-51",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 4200, "wages_paid": 360000, "pending": 12000 },
+      { "year": 2025, "month": 2, "person_days": 4700, "wages_paid": 410000, "pending": 9000 },
+      { "year": 2025, "month": 3, "person_days": 5200, "wages_paid": 460000, "pending": 7000 },
+      { "year": 2025, "month": 4, "person_days": 5800, "wages_paid": 520000, "pending": 4500 },
+      { "year": 2025, "month": 5, "person_days": 6400, "wages_paid": 580000, "pending": 3000 },
+      { "year": 2025, "month": 6, "person_days": 7000, "wages_paid": 640000, "pending": 2000 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-52",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 3600, "wages_paid": 320000, "pending": 15000 },
+      { "year": 2025, "month": 2, "person_days": 4100, "wages_paid": 370000, "pending": 12000 },
+      { "year": 2025, "month": 3, "person_days": 4600, "wages_paid": 420000, "pending": 9000 },
+      { "year": 2025, "month": 4, "person_days": 5100, "wages_paid": 470000, "pending": 6500 },
+      { "year": 2025, "month": 5, "person_days": 5700, "wages_paid": 525000, "pending": 4000 },
+      { "year": 2025, "month": 6, "person_days": 6300, "wages_paid": 580000, "pending": 2200 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-53",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 4400, "wages_paid": 390000, "pending": 10500 },
+      { "year": 2025, "month": 2, "person_days": 4900, "wages_paid": 440000, "pending": 8000 },
+      { "year": 2025, "month": 3, "person_days": 5400, "wages_paid": 490000, "pending": 6000 },
+      { "year": 2025, "month": 4, "person_days": 6000, "wages_paid": 540000, "pending": 4200 },
+      { "year": 2025, "month": 5, "person_days": 6600, "wages_paid": 600000, "pending": 2500 },
+      { "year": 2025, "month": 6, "person_days": 7200, "wages_paid": 655000, "pending": 1400 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-54",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 4000, "wages_paid": 350000, "pending": 12000 },
+      { "year": 2025, "month": 2, "person_days": 4500, "wages_paid": 400000, "pending": 9000 },
+      { "year": 2025, "month": 3, "person_days": 5100, "wages_paid": 460000, "pending": 7000 },
+      { "year": 2025, "month": 4, "person_days": 5700, "wages_paid": 520000, "pending": 5000 },
+      { "year": 2025, "month": 5, "person_days": 6200, "wages_paid": 570000, "pending": 3000 },
+      { "year": 2025, "month": 6, "person_days": 6800, "wages_paid": 620000, "pending": 2000 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-55",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 5200, "wages_paid": 470000, "pending": 8000 },
+      { "year": 2025, "month": 2, "person_days": 5700, "wages_paid": 520000, "pending": 6000 },
+      { "year": 2025, "month": 3, "person_days": 6200, "wages_paid": 570000, "pending": 4000 },
+      { "year": 2025, "month": 4, "person_days": 6800, "wages_paid": 630000, "pending": 2500 },
+      { "year": 2025, "month": 5, "person_days": 7400, "wages_paid": 690000, "pending": 1200 },
+      { "year": 2025, "month": 6, "person_days": 7900, "wages_paid": 740000, "pending": 800 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-56",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 3600, "wages_paid": 320000, "pending": 14000 },
+      { "year": 2025, "month": 2, "person_days": 4100, "wages_paid": 370000, "pending": 11000 },
+      { "year": 2025, "month": 3, "person_days": 4600, "wages_paid": 420000, "pending": 8500 },
+      { "year": 2025, "month": 4, "person_days": 5100, "wages_paid": 470000, "pending": 6000 },
+      { "year": 2025, "month": 5, "person_days": 5700, "wages_paid": 525000, "pending": 3500 },
+      { "year": 2025, "month": 6, "person_days": 6300, "wages_paid": 580000, "pending": 2200 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-57",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 4400, "wages_paid": 390000, "pending": 10500 },
+      { "year": 2025, "month": 2, "person_days": 4900, "wages_paid": 440000, "pending": 8000 },
+      { "year": 2025, "month": 3, "person_days": 5400, "wages_paid": 490000, "pending": 6000 },
+      { "year": 2025, "month": 4, "person_days": 6000, "wages_paid": 540000, "pending": 4200 },
+      { "year": 2025, "month": 5, "person_days": 6600, "wages_paid": 600000, "pending": 2500 },
+      { "year": 2025, "month": 6, "person_days": 7200, "wages_paid": 655000, "pending": 1400 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-58",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 4000, "wages_paid": 350000, "pending": 12000 },
+      { "year": 2025, "month": 2, "person_days": 4500, "wages_paid": 400000, "pending": 9000 },
+      { "year": 2025, "month": 3, "person_days": 5100, "wages_paid": 460000, "pending": 7000 },
+      { "year": 2025, "month": 4, "person_days": 5700, "wages_paid": 520000, "pending": 5000 },
+      { "year": 2025, "month": 5, "person_days": 6200, "wages_paid": 570000, "pending": 3000 },
+      { "year": 2025, "month": 6, "person_days": 6800, "wages_paid": 620000, "pending": 2000 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-59",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 5200, "wages_paid": 470000, "pending": 8000 },
+      { "year": 2025, "month": 2, "person_days": 5700, "wages_paid": 520000, "pending": 6000 },
+      { "year": 2025, "month": 3, "person_days": 6200, "wages_paid": 570000, "pending": 4000 },
+      { "year": 2025, "month": 4, "person_days": 6800, "wages_paid": 630000, "pending": 2500 },
+      { "year": 2025, "month": 5, "person_days": 7400, "wages_paid": 690000, "pending": 1200 },
+      { "year": 2025, "month": 6, "person_days": 7900, "wages_paid": 740000, "pending": 800 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-60",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 3600, "wages_paid": 320000, "pending": 14000 },
+      { "year": 2025, "month": 2, "person_days": 4100, "wages_paid": 370000, "pending": 11000 },
+      { "year": 2025, "month": 3, "person_days": 4600, "wages_paid": 420000, "pending": 8500 },
+      { "year": 2025, "month": 4, "person_days": 5100, "wages_paid": 470000, "pending": 6000 },
+      { "year": 2025, "month": 5, "person_days": 5700, "wages_paid": 525000, "pending": 3500 },
+      { "year": 2025, "month": 6, "person_days": 6300, "wages_paid": 580000, "pending": 2200 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-61",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 4400, "wages_paid": 390000, "pending": 10500 },
+      { "year": 2025, "month": 2, "person_days": 4900, "wages_paid": 440000, "pending": 8000 },
+      { "year": 2025, "month": 3, "person_days": 5400, "wages_paid": 490000, "pending": 6000 },
+      { "year": 2025, "month": 4, "person_days": 6000, "wages_paid": 540000, "pending": 4200 },
+      { "year": 2025, "month": 5, "person_days": 6600, "wages_paid": 600000, "pending": 2500 },
+      { "year": 2025, "month": 6, "person_days": 7200, "wages_paid": 655000, "pending": 1400 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-62",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 4000, "wages_paid": 350000, "pending": 12000 },
+      { "year": 2025, "month": 2, "person_days": 4500, "wages_paid": 400000, "pending": 9000 },
+      { "year": 2025, "month": 3, "person_days": 5100, "wages_paid": 460000, "pending": 7000 },
+      { "year": 2025, "month": 4, "person_days": 5700, "wages_paid": 520000, "pending": 5000 },
+      { "year": 2025, "month": 5, "person_days": 6200, "wages_paid": 570000, "pending": 3000 },
+      { "year": 2025, "month": 6, "person_days": 6800, "wages_paid": 620000, "pending": 2000 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-63",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 5200, "wages_paid": 470000, "pending": 8000 },
+      { "year": 2025, "month": 2, "person_days": 5700, "wages_paid": 520000, "pending": 6000 },
+      { "year": 2025, "month": 3, "person_days": 6200, "wages_paid": 570000, "pending": 4000 },
+      { "year": 2025, "month": 4, "person_days": 6800, "wages_paid": 630000, "pending": 2500 },
+      { "year": 2025, "month": 5, "person_days": 7400, "wages_paid": 690000, "pending": 1200 },
+      { "year": 2025, "month": 6, "person_days": 7900, "wages_paid": 740000, "pending": 800 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-64",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 3600, "wages_paid": 320000, "pending": 14000 },
+      { "year": 2025, "month": 2, "person_days": 4100, "wages_paid": 370000, "pending": 11000 },
+      { "year": 2025, "month": 3, "person_days": 4600, "wages_paid": 420000, "pending": 8500 },
+      { "year": 2025, "month": 4, "person_days": 5100, "wages_paid": 470000, "pending": 6000 },
+      { "year": 2025, "month": 5, "person_days": 5700, "wages_paid": 525000, "pending": 3500 },
+      { "year": 2025, "month": 6, "person_days": 6300, "wages_paid": 580000, "pending": 2200 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-65",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 4400, "wages_paid": 390000, "pending": 10500 },
+      { "year": 2025, "month": 2, "person_days": 4900, "wages_paid": 440000, "pending": 8000 },
+      { "year": 2025, "month": 3, "person_days": 5400, "wages_paid": 490000, "pending": 6000 },
+      { "year": 2025, "month": 4, "person_days": 6000, "wages_paid": 540000, "pending": 4200 },
+      { "year": 2025, "month": 5, "person_days": 6600, "wages_paid": 600000, "pending": 2500 },
+      { "year": 2025, "month": 6, "person_days": 7200, "wages_paid": 655000, "pending": 1400 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-66",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 4000, "wages_paid": 350000, "pending": 12000 },
+      { "year": 2025, "month": 2, "person_days": 4500, "wages_paid": 400000, "pending": 9000 },
+      { "year": 2025, "month": 3, "person_days": 5100, "wages_paid": 460000, "pending": 7000 },
+      { "year": 2025, "month": 4, "person_days": 5700, "wages_paid": 520000, "pending": 5000 },
+      { "year": 2025, "month": 5, "person_days": 6200, "wages_paid": 570000, "pending": 3000 },
+      { "year": 2025, "month": 6, "person_days": 6800, "wages_paid": 620000, "pending": 2000 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-67",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 5200, "wages_paid": 470000, "pending": 8000 },
+      { "year": 2025, "month": 2, "person_days": 5700, "wages_paid": 520000, "pending": 6000 },
+      { "year": 2025, "month": 3, "person_days": 6200, "wages_paid": 570000, "pending": 4000 },
+      { "year": 2025, "month": 4, "person_days": 6800, "wages_paid": 630000, "pending": 2500 },
+      { "year": 2025, "month": 5, "person_days": 7400, "wages_paid": 690000, "pending": 1200 },
+      { "year": 2025, "month": 6, "person_days": 7900, "wages_paid": 740000, "pending": 800 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-68",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 3600, "wages_paid": 320000, "pending": 14000 },
+      { "year": 2025, "month": 2, "person_days": 4100, "wages_paid": 370000, "pending": 11000 },
+      { "year": 2025, "month": 3, "person_days": 4600, "wages_paid": 420000, "pending": 8500 },
+      { "year": 2025, "month": 4, "person_days": 5100, "wages_paid": 470000, "pending": 6000 },
+      { "year": 2025, "month": 5, "person_days": 5700, "wages_paid": 525000, "pending": 3500 },
+      { "year": 2025, "month": 6, "person_days": 6300, "wages_paid": 580000, "pending": 2200 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-69",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 4400, "wages_paid": 390000, "pending": 10500 },
+      { "year": 2025, "month": 2, "person_days": 4900, "wages_paid": 440000, "pending": 8000 },
+      { "year": 2025, "month": 3, "person_days": 5400, "wages_paid": 490000, "pending": 6000 },
+      { "year": 2025, "month": 4, "person_days": 6000, "wages_paid": 540000, "pending": 4200 },
+      { "year": 2025, "month": 5, "person_days": 6600, "wages_paid": 600000, "pending": 2500 },
+      { "year": 2025, "month": 6, "person_days": 7200, "wages_paid": 655000, "pending": 1400 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-70",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 4000, "wages_paid": 350000, "pending": 12000 },
+      { "year": 2025, "month": 2, "person_days": 4500, "wages_paid": 400000, "pending": 9000 },
+      { "year": 2025, "month": 3, "person_days": 5100, "wages_paid": 460000, "pending": 7000 },
+      { "year": 2025, "month": 4, "person_days": 5700, "wages_paid": 520000, "pending": 5000 },
+      { "year": 2025, "month": 5, "person_days": 6200, "wages_paid": 570000, "pending": 3000 },
+      { "year": 2025, "month": 6, "person_days": 6800, "wages_paid": 620000, "pending": 2000 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-71",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 5200, "wages_paid": 470000, "pending": 8000 },
+      { "year": 2025, "month": 2, "person_days": 5700, "wages_paid": 520000, "pending": 6000 },
+      { "year": 2025, "month": 3, "person_days": 6200, "wages_paid": 570000, "pending": 4000 },
+      { "year": 2025, "month": 4, "person_days": 6800, "wages_paid": 630000, "pending": 2500 },
+      { "year": 2025, "month": 5, "person_days": 7400, "wages_paid": 690000, "pending": 1200 },
+      { "year": 2025, "month": 6, "person_days": 7900, "wages_paid": 740000, "pending": 800 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-72",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 3600, "wages_paid": 320000, "pending": 14000 },
+      { "year": 2025, "month": 2, "person_days": 4100, "wages_paid": 370000, "pending": 11000 },
+      { "year": 2025, "month": 3, "person_days": 4600, "wages_paid": 420000, "pending": 8500 },
+      { "year": 2025, "month": 4, "person_days": 5100, "wages_paid": 470000, "pending": 6000 },
+      { "year": 2025, "month": 5, "person_days": 5700, "wages_paid": 525000, "pending": 3500 },
+      { "year": 2025, "month": 6, "person_days": 6300, "wages_paid": 580000, "pending": 2200 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-73",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 4400, "wages_paid": 390000, "pending": 10500 },
+      { "year": 2025, "month": 2, "person_days": 4900, "wages_paid": 440000, "pending": 8000 },
+      { "year": 2025, "month": 3, "person_days": 5400, "wages_paid": 490000, "pending": 6000 },
+      { "year": 2025, "month": 4, "person_days": 6000, "wages_paid": 540000, "pending": 4200 },
+      { "year": 2025, "month": 5, "person_days": 6600, "wages_paid": 600000, "pending": 2500 },
+      { "year": 2025, "month": 6, "person_days": 7200, "wages_paid": 655000, "pending": 1400 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-74",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 4000, "wages_paid": 350000, "pending": 12000 },
+      { "year": 2025, "month": 2, "person_days": 4500, "wages_paid": 400000, "pending": 9000 },
+      { "year": 2025, "month": 3, "person_days": 5100, "wages_paid": 460000, "pending": 7000 },
+      { "year": 2025, "month": 4, "person_days": 5700, "wages_paid": 520000, "pending": 5000 },
+      { "year": 2025, "month": 5, "person_days": 6200, "wages_paid": 570000, "pending": 3000 },
+      { "year": 2025, "month": 6, "person_days": 6800, "wages_paid": 620000, "pending": 2000 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+
+  {
+    "districtId": "d-75",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 5200, "wages_paid": 470000, "pending": 8000 },
+      { "year": 2025, "month": 2, "person_days": 5700, "wages_paid": 520000, "pending": 6000 },
+      { "year": 2025, "month": 3, "person_days": 6200, "wages_paid": 570000, "pending": 4000 },
+      { "year": 2025, "month": 4, "person_days": 6800, "wages_paid": 630000, "pending": 2500 },
+      { "year": 2025, "month": 5, "person_days": 7400, "wages_paid": 690000, "pending": 1200 },
+      { "year": 2025, "month": 6, "person_days": 7900, "wages_paid": 740000, "pending": 800 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-76",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 3600, "wages_paid": 320000, "pending": 14000 },
+      { "year": 2025, "month": 2, "person_days": 4100, "wages_paid": 370000, "pending": 11000 },
+      { "year": 2025, "month": 3, "person_days": 4600, "wages_paid": 420000, "pending": 8500 },
+      { "year": 2025, "month": 4, "person_days": 5100, "wages_paid": 470000, "pending": 6000 },
+      { "year": 2025, "month": 5, "person_days": 5700, "wages_paid": 525000, "pending": 3500 },
+      { "year": 2025, "month": 6, "person_days": 6300, "wages_paid": 580000, "pending": 2200 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-77",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 4400, "wages_paid": 390000, "pending": 10500 },
+      { "year": 2025, "month": 2, "person_days": 4900, "wages_paid": 440000, "pending": 8000 },
+      { "year": 2025, "month": 3, "person_days": 5400, "wages_paid": 490000, "pending": 6000 },
+      { "year": 2025, "month": 4, "person_days": 6000, "wages_paid": 540000, "pending": 4200 },
+      { "year": 2025, "month": 5, "person_days": 6600, "wages_paid": 600000, "pending": 2500 },
+      { "year": 2025, "month": 6, "person_days": 7200, "wages_paid": 655000, "pending": 1400 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-78",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 4000, "wages_paid": 350000, "pending": 12000 },
+      { "year": 2025, "month": 2, "person_days": 4500, "wages_paid": 400000, "pending": 9000 },
+      { "year": 2025, "month": 3, "person_days": 5100, "wages_paid": 460000, "pending": 7000 },
+      { "year": 2025, "month": 4, "person_days": 5700, "wages_paid": 520000, "pending": 5000 },
+      { "year": 2025, "month": 5, "person_days": 6200, "wages_paid": 570000, "pending": 3000 },
+      { "year": 2025, "month": 6, "person_days": 6800, "wages_paid": 620000, "pending": 2000 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-79",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 4400, "wages_paid": 390000, "pending": 10500 },
+      { "year": 2025, "month": 2, "person_days": 4900, "wages_paid": 440000, "pending": 8000 },
+      { "year": 2025, "month": 3, "person_days": 5400, "wages_paid": 490000, "pending": 6000 },
+      { "year": 2025, "month": 4, "person_days": 6000, "wages_paid": 540000, "pending": 4200 },
+      { "year": 2025, "month": 5, "person_days": 6600, "wages_paid": 600000, "pending": 2500 },
+      { "year": 2025, "month": 6, "person_days": 7200, "wages_paid": 655000, "pending": 1600 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-80",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 4200, "wages_paid": 360000, "pending": 12000 },
+      { "year": 2025, "month": 2, "person_days": 4700, "wages_paid": 410000, "pending": 9500 },
+      { "year": 2025, "month": 3, "person_days": 5200, "wages_paid": 460000, "pending": 7500 },
+      { "year": 2025, "month": 4, "person_days": 5800, "wages_paid": 520000, "pending": 5200 },
+      { "year": 2025, "month": 5, "person_days": 6400, "wages_paid": 580000, "pending": 3000 },
+      { "year": 2025, "month": 6, "person_days": 7000, "wages_paid": 640000, "pending": 2200 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-81",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 3800, "wages_paid": 330000, "pending": 14000 },
+      { "year": 2025, "month": 2, "person_days": 4300, "wages_paid": 380000, "pending": 11000 },
+      { "year": 2025, "month": 3, "person_days": 4800, "wages_paid": 430000, "pending": 9000 },
+      { "year": 2025, "month": 4, "person_days": 5300, "wages_paid": 480000, "pending": 6500 },
+      { "year": 2025, "month": 5, "person_days": 5900, "wages_paid": 540000, "pending": 3800 },
+      { "year": 2025, "month": 6, "person_days": 6500, "wages_paid": 600000, "pending": 2400 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-82",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 5100, "wages_paid": 460000, "pending": 8500 },
+      { "year": 2025, "month": 2, "person_days": 5600, "wages_paid": 510000, "pending": 6500 },
+      { "year": 2025, "month": 3, "person_days": 6100, "wages_paid": 560000, "pending": 4800 },
+      { "year": 2025, "month": 4, "person_days": 6700, "wages_paid": 620000, "pending": 3000 },
+      { "year": 2025, "month": 5, "person_days": 7300, "wages_paid": 680000, "pending": 1600 },
+      { "year": 2025, "month": 6, "person_days": 7900, "wages_paid": 740000, "pending": 900 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-83",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 3700, "wages_paid": 320000, "pending": 15000 },
+      { "year": 2025, "month": 2, "person_days": 4200, "wages_paid": 370000, "pending": 12000 },
+      { "year": 2025, "month": 3, "person_days": 4700, "wages_paid": 420000, "pending": 9000 },
+      { "year": 2025, "month": 4, "person_days": 5200, "wages_paid": 470000, "pending": 6500 },
+      { "year": 2025, "month": 5, "person_days": 5800, "wages_paid": 525000, "pending": 3900 },
+      { "year": 2025, "month": 6, "person_days": 6400, "wages_paid": 580000, "pending": 2600 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-84",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 4600, "wages_paid": 400000, "pending": 10000 },
+      { "year": 2025, "month": 2, "person_days": 5100, "wages_paid": 450000, "pending": 8000 },
+      { "year": 2025, "month": 3, "person_days": 5600, "wages_paid": 500000, "pending": 6000 },
+      { "year": 2025, "month": 4, "person_days": 6100, "wages_paid": 550000, "pending": 4200 },
+      { "year": 2025, "month": 5, "person_days": 6700, "wages_paid": 610000, "pending": 2000 },
+      { "year": 2025, "month": 6, "person_days": 7300, "wages_paid": 670000, "pending": 1200 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-85",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 3900, "wages_paid": 340000, "pending": 13000 },
+      { "year": 2025, "month": 2, "person_days": 4400, "wages_paid": 390000, "pending": 10000 },
+      { "year": 2025, "month": 3, "person_days": 4900, "wages_paid": 440000, "pending": 8000 },
+      { "year": 2025, "month": 4, "person_days": 5400, "wages_paid": 490000, "pending": 6000 },
+      { "year": 2025, "month": 5, "person_days": 6000, "wages_paid": 540000, "pending": 3500 },
+      { "year": 2025, "month": 6, "person_days": 6600, "wages_paid": 595000, "pending": 2400 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-86",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 4700, "wages_paid": 410000, "pending": 9000 },
+      { "year": 2025, "month": 2, "person_days": 5200, "wages_paid": 460000, "pending": 7000 },
+      { "year": 2025, "month": 3, "person_days": 5700, "wages_paid": 510000, "pending": 5000 },
+      { "year": 2025, "month": 4, "person_days": 6200, "wages_paid": 560000, "pending": 3500 },
+      { "year": 2025, "month": 5, "person_days": 6800, "wages_paid": 620000, "pending": 1800 },
+      { "year": 2025, "month": 6, "person_days": 7400, "wages_paid": 680000, "pending": 1200 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-87",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 4200, "wages_paid": 360000, "pending": 12000 },
+      { "year": 2025, "month": 2, "person_days": 4700, "wages_paid": 410000, "pending": 10000 },
+      { "year": 2025, "month": 3, "person_days": 5200, "wages_paid": 460000, "pending": 7500 },
+      { "year": 2025, "month": 4, "person_days": 5800, "wages_paid": 520000, "pending": 5200 },
+      { "year": 2025, "month": 5, "person_days": 6400, "wages_paid": 580000, "pending": 3000 },
+      { "year": 2025, "month": 6, "person_days": 7000, "wages_paid": 640000, "pending": 2200 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-88",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 3800, "wages_paid": 330000, "pending": 14000 },
+      { "year": 2025, "month": 2, "person_days": 4300, "wages_paid": 380000, "pending": 11000 },
+      { "year": 2025, "month": 3, "person_days": 4800, "wages_paid": 430000, "pending": 9000 },
+      { "year": 2025, "month": 4, "person_days": 5300, "wages_paid": 480000, "pending": 6500 },
+      { "year": 2025, "month": 5, "person_days": 5900, "wages_paid": 540000, "pending": 3800 },
+      { "year": 2025, "month": 6, "person_days": 6500, "wages_paid": 600000, "pending": 2400 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-89",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 5100, "wages_paid": 460000, "pending": 8500 },
+      { "year": 2025, "month": 2, "person_days": 5600, "wages_paid": 510000, "pending": 6500 },
+      { "year": 2025, "month": 3, "person_days": 6100, "wages_paid": 560000, "pending": 4800 },
+      { "year": 2025, "month": 4, "person_days": 6700, "wages_paid": 620000, "pending": 3000 },
+      { "year": 2025, "month": 5, "person_days": 7300, "wages_paid": 680000, "pending": 1600 },
+      { "year": 2025, "month": 6, "person_days": 7900, "wages_paid": 740000, "pending": 900 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-90",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 3700, "wages_paid": 320000, "pending": 15000 },
+      { "year": 2025, "month": 2, "person_days": 4200, "wages_paid": 370000, "pending": 12000 },
+      { "year": 2025, "month": 3, "person_days": 4700, "wages_paid": 420000, "pending": 9000 },
+      { "year": 2025, "month": 4, "person_days": 5200, "wages_paid": 470000, "pending": 6500 },
+      { "year": 2025, "month": 5, "person_days": 5800, "wages_paid": 525000, "pending": 3900 },
+      { "year": 2025, "month": 6, "person_days": 6400, "wages_paid": 580000, "pending": 2600 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-91",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 4600, "wages_paid": 400000, "pending": 10000 },
+      { "year": 2025, "month": 2, "person_days": 5100, "wages_paid": 450000, "pending": 8000 },
+      { "year": 2025, "month": 3, "person_days": 5600, "wages_paid": 500000, "pending": 6000 },
+      { "year": 2025, "month": 4, "person_days": 6100, "wages_paid": 550000, "pending": 4200 },
+      { "year": 2025, "month": 5, "person_days": 6700, "wages_paid": 610000, "pending": 2200 },
+      { "year": 2025, "month": 6, "person_days": 7300, "wages_paid": 670000, "pending": 1200 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-92",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 3900, "wages_paid": 340000, "pending": 13000 },
+      { "year": 2025, "month": 2, "person_days": 4400, "wages_paid": 390000, "pending": 10000 },
+      { "year": 2025, "month": 3, "person_days": 4900, "wages_paid": 440000, "pending": 8000 },
+      { "year": 2025, "month": 4, "person_days": 5400, "wages_paid": 490000, "pending": 6000 },
+      { "year": 2025, "month": 5, "person_days": 6000, "wages_paid": 540000, "pending": 3500 },
+      { "year": 2025, "month": 6, "person_days": 6600, "wages_paid": 595000, "pending": 2400 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-93",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 4800, "wages_paid": 420000, "pending": 9500 },
+      { "year": 2025, "month": 2, "person_days": 5300, "wages_paid": 470000, "pending": 7500 },
+      { "year": 2025, "month": 3, "person_days": 5800, "wages_paid": 520000, "pending": 6000 },
+      { "year": 2025, "month": 4, "person_days": 6300, "wages_paid": 570000, "pending": 4200 },
+      { "year": 2025, "month": 5, "person_days": 6900, "wages_paid": 630000, "pending": 2000 },
+      { "year": 2025, "month": 6, "person_days": 7400, "wages_paid": 680000, "pending": 1200 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-94",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 4200, "wages_paid": 360000, "pending": 12000 },
+      { "year": 2025, "month": 2, "person_days": 4700, "wages_paid": 410000, "pending": 9500 },
+      { "year": 2025, "month": 3, "person_days": 5200, "wages_paid": 460000, "pending": 7500 },
+      { "year": 2025, "month": 4, "person_days": 5800, "wages_paid": 520000, "pending": 5200 },
+      { "year": 2025, "month": 5, "person_days": 6400, "wages_paid": 580000, "pending": 3000 },
+      { "year": 2025, "month": 6, "person_days": 7000, "wages_paid": 640000, "pending": 2200 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-95",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 3800, "wages_paid": 330000, "pending": 14000 },
+      { "year": 2025, "month": 2, "person_days": 4300, "wages_paid": 380000, "pending": 11000 },
+      { "year": 2025, "month": 3, "person_days": 4800, "wages_paid": 430000, "pending": 9000 },
+      { "year": 2025, "month": 4, "person_days": 5300, "wages_paid": 480000, "pending": 6500 },
+      { "year": 2025, "month": 5, "person_days": 5900, "wages_paid": 540000, "pending": 3800 },
+      { "year": 2025, "month": 6, "person_days": 6500, "wages_paid": 600000, "pending": 2400 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-96",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 5100, "wages_paid": 460000, "pending": 8500 },
+      { "year": 2025, "month": 2, "person_days": 5600, "wages_paid": 510000, "pending": 6500 },
+      { "year": 2025, "month": 3, "person_days": 6100, "wages_paid": 560000, "pending": 4800 },
+      { "year": 2025, "month": 4, "person_days": 6700, "wages_paid": 620000, "pending": 3000 },
+      { "year": 2025, "month": 5, "person_days": 7300, "wages_paid": 680000, "pending": 1600 },
+      { "year": 2025, "month": 6, "person_days": 7900, "wages_paid": 740000, "pending": 900 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-97",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 3700, "wages_paid": 320000, "pending": 15000 },
+      { "year": 2025, "month": 2, "person_days": 4200, "wages_paid": 370000, "pending": 12000 },
+      { "year": 2025, "month": 3, "person_days": 4700, "wages_paid": 420000, "pending": 9000 },
+      { "year": 2025, "month": 4, "person_days": 5200, "wages_paid": 470000, "pending": 6500 },
+      { "year": 2025, "month": 5, "person_days": 5800, "wages_paid": 525000, "pending": 3900 },
+      { "year": 2025, "month": 6, "person_days": 6400, "wages_paid": 580000, "pending": 2600 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-98",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 4600, "wages_paid": 400000, "pending": 10000 },
+      { "year": 2025, "month": 2, "person_days": 5100, "wages_paid": 450000, "pending": 8000 },
+      { "year": 2025, "month": 3, "person_days": 5600, "wages_paid": 500000, "pending": 6000 },
+      { "year": 2025, "month": 4, "person_days": 6100, "wages_paid": 550000, "pending": 4200 },
+      { "year": 2025, "month": 5, "person_days": 6700, "wages_paid": 610000, "pending": 2200 },
+      { "year": 2025, "month": 6, "person_days": 7300, "wages_paid": 670000, "pending": 1200 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-99",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 3900, "wages_paid": 340000, "pending": 13000 },
+      { "year": 2025, "month": 2, "person_days": 4400, "wages_paid": 390000, "pending": 10000 },
+      { "year": 2025, "month": 3, "person_days": 4900, "wages_paid": 440000, "pending": 8000 },
+      { "year": 2025, "month": 4, "person_days": 5400, "wages_paid": 490000, "pending": 6000 },
+      { "year": 2025, "month": 5, "person_days": 6000, "wages_paid": 540000, "pending": 3500 },
+      { "year": 2025, "month": 6, "person_days": 6600, "wages_paid": 595000, "pending": 2400 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  },
+  {
+    "districtId": "d-100",
+    "metrics": [
+      { "year": 2025, "month": 1, "person_days": 4800, "wages_paid": 420000, "pending": 9500 },
+      { "year": 2025, "month": 2, "person_days": 5300, "wages_paid": 470000, "pending": 7500 },
+      { "year": 2025, "month": 3, "person_days": 5800, "wages_paid": 520000, "pending": 6000 },
+      { "year": 2025, "month": 4, "person_days": 6300, "wages_paid": 570000, "pending": 4200 },
+      { "year": 2025, "month": 5, "person_days": 6900, "wages_paid": 630000, "pending": 2000 },
+      { "year": 2025, "month": 6, "person_days": 7400, "wages_paid": 680000, "pending": 1200 }
+    ],
+    "last_updated": "2025-10-22T08:00:00Z"
+  }
+  
+]
